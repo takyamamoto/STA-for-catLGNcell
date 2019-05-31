@@ -7,10 +7,8 @@ Created on Fri May 31 11:33:26 2019
 
 import numpy as np
 import matplotlib.pyplot as plt
-#from matplotlib import gridspec
 import scipy.io
 import scipy.ndimage
-from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import gridspec
 from tqdm import tqdm
 
